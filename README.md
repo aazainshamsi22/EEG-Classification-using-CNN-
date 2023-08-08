@@ -5,7 +5,10 @@
 
 ## Dataset used: 
 ### Note  :   
-You will find IndividualData.zip in the repositry.It contains 9 subjects and 4 classes at which the data is based. 
+Dataset is uploaded at my drive. Here is the link:
+https://drive.google.com/drive/folders/1vCgkcQ9qPnSXXUbY3T5pwVauebAjFn7N?usp=drive_link
+
+It contains 9 subjects and 4 classes at which the data is based. 
 
 ## Getting Started 🏁  
 To run this project on your local machine, you need to have Python 3.8 or higher installed. Follow the steps below to get started:  
